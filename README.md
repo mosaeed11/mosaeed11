@@ -64,7 +64,6 @@ Passionate about building modern, responsive, and user-friendly mobile applicati
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=mosaeed11&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
